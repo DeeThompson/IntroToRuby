@@ -1,0 +1,16 @@
+using freecodecamp Ruby program
+
+puts "/|"
+puts "/|
+puts "/|"
+puts "/|"
+
+#Variables in Ruby use the variable part to put on Github
+
+character_name="John"
+character_age="35"
+
+#example
+
+puts("There once was a man named "+character_name)
+
